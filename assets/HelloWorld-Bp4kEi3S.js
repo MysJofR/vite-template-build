@@ -1,0 +1,1 @@
+import{d as n,r as a,c,t as l,o as _}from"./index-i_oEzqFm.js";const p=n({__name:"HelloWorld",props:{msg:{}},setup(o){return a(0),(t,e)=>(_(),c("h1",null,l("estou sendo editado")))}}),d=(o,t)=>{const e=o.__vccOpts||o;for(const[s,r]of t)e[s]=r;return e},m=d(p,[["__scopeId","data-v-fb405dfe"]]);export{m as default};
